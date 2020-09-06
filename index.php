@@ -178,13 +178,7 @@
         
         
 
-        // function getStudentByPrn(prn) {
-        //     let url = base_url + "?req=student_data&prn="+prn;
-        //     $.get(url,function(data,success){
-        //         console.log(data.length);
-        //         console.log(data);
-        //     });
-        // }
+        
     </script>
 
 
